@@ -1,4 +1,4 @@
-![image](https://github.com/raifenoll95/generator_Album_Music/assets/25900329/d5a69de0-8acf-4f46-9026-4e299017c3ab)
+![image](https://github.com/raifenoll95/generator_Album_Music/assets/25900329/818d1149-4a08-46ba-901f-c4d6ed5463e9)
 
 Es un fichero .bat que genera un album de musica, con todos sus metadatos.
 
