@@ -1,8 +1,8 @@
-![image](https://github.com/raifenoll95/generator_Album_Music/assets/25900329/fcaf05fe-8d5d-4bc4-aa23-25fbc6081fc7)
+![image](https://github.com/raifenoll95/generator_Album_Music/assets/25900329/39055afe-6c70-45a3-9d2c-6e9ad06feb39)
 
 Es un fichero .bat que genera un album de musica, con todos sus metadatos.
 
-##Instrucciones##
+**Instrucciones**
 
 1. En la carpeta de Descargas se meten todas las canciones.
 2. Tener una imagen cover.jpg que sea la imagen del album.
